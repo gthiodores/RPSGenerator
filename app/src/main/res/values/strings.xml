@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPS Generator</string>
+    <string name="paper_desc">Paper</string>
+    <string name="scissor_desc">Scissor</string>
+    <string name="rock_desc">Rock</string>
+    <string name="random_desc">Random</string>
+    <string name="clicked_counter">Clicked %d times</string>
+</resources>
